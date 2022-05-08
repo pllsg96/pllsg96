@@ -28,7 +28,8 @@
   <div align ="center">
     <h3> Redes sociais e contato </h3>
     
-  <a href="https://www.instagram.com/pedrogz96/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="instagram-button" target="_blank"></a>
+    <a href="https://www.instagram.com/pedrogz96/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="instagram-button"></a>
+    
 
   </div>
   
