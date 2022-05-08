@@ -25,6 +25,7 @@
   ##
   <div align ="center">
     <h3> Redes sociais e contato </h3>
- 
+    <a href="https://www.linkedin.com/in/pllsg96/" target="_blank"> <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+    
   </div>
   
