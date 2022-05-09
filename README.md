@@ -2,7 +2,7 @@
 
 <ul>
   <li> 🌱 Atualmente estou aprendendo HTML, CSS e Javascript </li>
-  <li> 🏗️ Caso queira ver o desenvolvimento do meu portfólio, acesse: pllsg96.github.io\t
+  <li> 🏗️ Caso queira ver o desenvolvimento do meu portfólio, acesse: pllsg96.github.io
   <li> 😄 Pronomes: ele/dele </li>
 </ul>
 
