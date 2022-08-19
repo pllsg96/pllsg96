@@ -1,7 +1,7 @@
 <h3> Olá, tudo bem? 👋🤙 </h3>
 
 <ul>
-  <li> 🌱 Atualmente estou aprendendo HTML, CSS e Javascript </li>
+  <li> 🌱 Atualmente estou aprendendo Redux atrelado a React </li>
   <li> 🏗️ Caso queira ver o desenvolvimento do meu portfólio, acesse: pllsg96.github.io
   <li> 😄 Pronomes: ele/dele </li>
 </ul>
