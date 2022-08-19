@@ -20,6 +20,10 @@
     <img align="center" alt="Pedro-React" height="60px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Pedro-C" height="60px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="Pedro-React" height="60px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Pedro-React" height="60px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+    <img align="center" alt="Pedro-React" height="60px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Pedro-React" height="60px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+    
   </div>  
   
   ##
