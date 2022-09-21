@@ -33,7 +33,7 @@
     <a href="https://www.instagram.com/pedrogz96/" target="_blank"><img height="30px" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href = "mailto:pedroluizlsg@gmail.com" target="_blank"><img height="30px" target="_blank" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email-pedro-button"></a>
     <br><br>
-    <img height="150px" src="https://c.tenor.com/t25bzXBi65kAAAAC/workworkwork-typingcat.gif" alt="">
+    <img height="100px" src="https://c.tenor.com/t25bzXBi65kAAAAC/workworkwork-typingcat.gif" alt="">
       
   </div>
   
