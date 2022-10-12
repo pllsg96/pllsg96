@@ -1,9 +1,9 @@
-<h3> Olá, tudo bem? 👋🤙 </h3>
+<h3> Hello, how are you? 👋🤙 </h3>
 
 <ul>
-  <li> 🌱 Atualmente estou aprendendo docker </li>
-  <li> 🏗️ Caso queira ver o desenvolvimento do meu portfólio, acesse: pllsg96.github.io
-  <li> 😄 Pronomes: ele/dele </li>
+  <li> 🌱 At moment i am learning docker </li>
+  <li> 🏗️ Here you can find my portfolio, just access: pllsg96.github.io
+  <li> 😄 Pronouns: He/his </li>
 </ul>
 
 <div align="center">
@@ -28,7 +28,7 @@
   
   ##
   <div align ="center">
-    <h3> Redes sociais e contato </h3>
+    <h3> Social media and contact </h3>
     <a href="https://www.linkedin.com/in/pllsg96/" target="_blank"> <img height="30px" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/pedrogz96/" target="_blank"><img height="30px" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href = "mailto:pedroluizlsg@gmail.com" target="_blank"><img height="30px" target="_blank" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email-pedro-button"></a>
