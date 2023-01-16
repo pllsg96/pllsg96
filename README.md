@@ -24,7 +24,10 @@
     <img align="center" alt="Pedro-Bootstrap" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Pedro-Jest" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
     <img align="center" alt="Pedro-Typescript" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    
+    <img align="center" alt="Pedro-Docker" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+    <img align="center" alt="Pedro-Nodejs" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Pedro-Mysql" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+   
   </div>  
   
   ##
