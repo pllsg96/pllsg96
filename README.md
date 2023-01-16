@@ -19,10 +19,11 @@
     <img align="center" alt="Pedro-JS" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Pedro-React" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Pedro-C" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="Pedro-React" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" alt="Pedro-React" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-    <img align="center" alt="Pedro-React" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Pedro-React" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+    <img align="center" alt="Pedro-Linux" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Pedro-Redux" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+    <img align="center" alt="Pedro-Bootstrap" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Pedro-Jest" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+    <img align="center" alt="Pedro-Typescript" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     
   </div>  
   
