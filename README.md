@@ -1,8 +1,8 @@
 <h3> Hello, how are you? 👋🤙 </h3>
 
 <ul>
-  <li> 🌱 At moment i am learning Typescript </li>
-  <li> 🏗️ Here you can find my portfolio, just access: pllsg96.github.io
+  <li> 🌱 At moment i am learning Typescript using SOLID concepts </li>
+<!--   <li> 🏗️ Here you can find my portfolio, just access: pllsg96.github.io -->
   <li> 😄 Pronouns: He/his </li>
 </ul>
 
