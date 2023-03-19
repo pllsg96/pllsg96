@@ -1,7 +1,7 @@
 <h3> Hello, how are you? 👋🤙 </h3>
 
 <ul>
-  <li> 🌱 At moment i am learning MongoDB! </li>
+  <li> 🌱 At moment i am learning Python! </li>
 <!--   <li> 🏗️ Here you can find my portfolio, just access: pllsg96.github.io -->
   <li> 😄 Pronouns: He/his </li>
 </ul>
