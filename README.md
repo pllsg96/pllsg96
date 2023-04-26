@@ -2,9 +2,9 @@
 <h3> Hello, how are you? 👋🤙 </h3>
 
 <ul>
-  <p> 🌱 At moment i am learning Python! </p>
+  <li> 🌱 At moment i am learning Python! </li>
 <!--   <li> 🏗️ Here you can find my portfolio, just access: pllsg96.github.io -->
-  <p> 😄 Pronouns: He/his </p>
+  <li> 😄 Pronouns: He/his </li>
 </ul>
 <div>
   
