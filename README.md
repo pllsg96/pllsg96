@@ -1,3 +1,4 @@
+<div align="center">
 <h3> Hello, how are you? 👋🤙 </h3>
 
 <ul>
@@ -5,7 +6,8 @@
 <!--   <li> 🏗️ Here you can find my portfolio, just access: pllsg96.github.io -->
   <li> 😄 Pronouns: He/his </li>
 </ul>
-
+<div>
+  
 <div align="center">
   <a href="https://github.com/pllsg96">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pllsg96&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
