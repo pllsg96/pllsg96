@@ -13,7 +13,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pllsg96&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllsg96&layout=compact&langs_count=10&theme=vision-friendly-dark">
 </div>
-  <div align="center">
+  <div align="left">
     <h2>Stacks</h2>
       <h3>Front-End</h3>
         <img align="center" alt="Pedro-HTML" height="40px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
