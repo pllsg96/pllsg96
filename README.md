@@ -8,7 +8,7 @@
 <div height="40">
 
   ```
-    Meu nome é Pedro Luiz, sou apaixonado por tecnologia desde muito jovem. Em 2020 me graduei em engenharia mecatrônica, e neste processo tive uma microempresa de impressão 3D. Desde o início da graduação tive contato com programação e me identifiquei bastante, e desde 2022 venho me dedicado integralmente ao desenvolvimento de software.
+    Meu nome é Pedro Luiz, sou apaixonado por tecnologia desde muito jovem. Em 2020 me\ graduei em engenharia mecatrônica, e neste processo tive uma microempresa de\ impressão 3D. Desde o início da graduação tive contato com programação e me\ identifiquei bastante, e desde 2022 venho me dedicado integralmente ao\ desenvolvimento de software.\
   ```
 </div>
 
