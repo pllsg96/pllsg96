@@ -1,12 +1,19 @@
 <div align="left">
-<h3> Hello, how are you? 👋🤙 </h3>
 
-<ul>
-  <li> 🌱 At moment i am learning Python! </li>
-<!--   <li> 🏗️ Here you can find my portfolio, just access: pllsg96.github.io -->
-  <li> 😄 Pronouns: He/his </li>
-</ul>
-<div>
+  <!-- <li> 🌱 At moment i am learning Python! </li> -->
+<h2>   Olá, como vai? 👋🤙 </h2>
+
+
+<img width=30% src="./imgs/gifs/cataboutme-txt.gif">
+<div height="40">
+
+  ```
+    Meu nome é Pedro Luiz, sou apaixonado por tecnologia desde muito jovem. Em 2020 me graduei em engenharia mecatrônica, e neste processo tive uma microempresa de impressão 3D. Desde o início da graduação tive contato com programação e me identifiquei bastante, e desde 2022 venho me dedicado integralmente ao desenvolvimento de software.
+  ```
+</div>
+
+
+</div>
   
 <div align="center">
   <a href="https://github.com/pllsg96">
