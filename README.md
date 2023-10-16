@@ -9,9 +9,9 @@
   My name is Pedro Luiz Gonçalves, and I am currently 27 years old. I currently reside in Maceió, Alagoas. My passion for technology has been with me since childhood. Presently, I work as a freelance full-stack web developer, specializing in Node.js and React. Additionally, I am a graduate in mechatronics engineering and am pursuing a bachelor's degree in computer science and a post-graduate program in software engineering.
   </p>
   <ul>
-    <li>Bachelor in mechatronics enginnering at UNIT (2015 - 2020) 🎓 🤖 👨‍🔧</li>
-    <li>Exchange in mechatronics enginnering at Évora University (2017-2018) 🎓 ✈️ 🇵🇹</li>
-    <li>Bachelor in Computer Science in UNESA (2023 - 2027) 🎓 💻 👨‍🔬 </li>
+    <li>Bachelor in mechatronics enginnering at <a href="https://www.unit.br" target="_blank" rel="noopener noreferrer">UNIT</a> (2015 - 2020) 🎓 🤖 👨‍🔧</li>
+    <li>Exchange in mechatronics enginnering at <a href="https://www.uevora.pt" target="_blank" rel="noopener noreferrer">Évora University</a> (2017-2018) 🎓 ✈️ 🇵🇹</li>
+    <li>Bachelor in Computer Science in <a href="https://estacio.br" target="_blank" rel="noopener noreferrer">UNESA</a> (2023 - 2027) 🎓 💻 👨‍🔬 </li>
     <li>Postgraduate in Software Enginnering at <a href="https://faculdademetropolitana.edu.br/" target="_blank" rel="noopener noreferrer">FAMEESP</a> (2023 - 2024) 🎓 💻 👨‍💻</li> 
   </ul>
   <p>
