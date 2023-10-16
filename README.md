@@ -18,8 +18,6 @@
   In my personal life, I'm passionate about programming and the maker culture, often engaging in personal projects such as 3D printing. I also have a keen interest in physical fitness, with a focus on CrossFit and weightlifting, even though I'll humbly admit I'm not a pro in these areas. My diverse range of interests extends to reading; I enjoy literature from Dostoevsky to Patrick Rothfuss. Additionally, I have a deep love for music, encompassing various genres, including bands like Alice in Chains, Pantera, Municipal Waste, and many more.
   </p>
 </div>
-
-<img height="140em" src="https://c.tenor.com/t25bzXBi65kAAAAC/workworkwork-typingcat.gif" alt="">
 </div>
   
 <div align="center">
@@ -27,6 +25,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pllsg96&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllsg96&layout=compact&langs_count=10&theme=vision-friendly-dark">
 </div>
+    <img height="100em" src="https://c.tenor.com/t25bzXBi65kAAAAC/workworkwork-typingcat.gif" alt="">
   <div align="left">
     <h2>Stacks</h2>
       <h3>Front-End</h3>
