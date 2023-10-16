@@ -3,13 +3,19 @@
   <!-- <li> 🌱 At moment i am learning Python! </li> -->
 <h2>   Olá, como vai? 👋🤙 </h2>
 
-<img width=30% src="./imgs/gifs/cataboutme-txt.gif">
+<img width=40% src="./imgs/gifs/cataboutme-txt.gif">
 <div align="justify">
   <p>
-  Meu nome é Pedro Luiz, sou apaixonado por tecnologia desde muito jovem. Em 2020 me graduei em engenharia mecatrônica, e neste processo tive uma microempresa de impressão 3D. Desde o início da graduação tive contato com programação e me identifiquei bastante, e desde 2022 venho me dedicado integralmente ao desenvolvimento de software.
+  My name is Pedro Luiz Gonçalves, and I am currently 27 years old. I currently reside in Maceió, Alagoas. My passion for technology has been with me since childhood. Presently, I work as a freelance full-stack web developer, specializing in Node.js and React. Additionally, I am a graduate in mechatronics engineering and am pursuing a bachelor's degree in computer science and a post-graduate program in software engineering.
   </p>
+  <ul>
+    <li>Bachelor in mechatronics enginnering at UNIT (2015 - 2020)</li>
+    <li>Exchange in mechatronics enginnering at Évora University (2017-2018)</li>
+    <li>Bachelor in Computer Science in UNESA (2023 - 2027)</li>
+    <li>Postgraduate in Software Enginnering FAMEESP (2023 - 2024)</li>
+  </ul>
   <p>
-  Meus hobbies são programar, eletrônica(analógica e digital), crossfit, jogos online, ler e muita música.
+  In my personal life, I'm passionate about programming and the maker culture, often engaging in personal projects such as 3D printing. I also have a keen interest in physical fitness, with a focus on CrossFit and weightlifting, even though I'll humbly admit I'm not a pro in these areas. My diverse range of interests extends to reading; I enjoy literature from Dostoevsky to Patrick Rothfuss. Additionally, I have a deep love for music, encompassing various genres, including bands like Alice in Chains, Pantera, Municipal Waste, and many more.
   </p>
 </div>
 
@@ -18,8 +24,8 @@
   
 <div align="center">
   <a href="https://github.com/pllsg96">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pllsg96&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllsg96&layout=compact&langs_count=10&theme=vision-friendly-dark">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=pllsg96&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllsg96&layout=compact&langs_count=10&theme=vision-friendly-dark">
 </div>
   <div align="left">
     <h2>Stacks</h2>
