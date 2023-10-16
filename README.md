@@ -9,10 +9,10 @@
   My name is Pedro Luiz Gonçalves, and I am currently 27 years old. I currently reside in Maceió, Alagoas. My passion for technology has been with me since childhood. Presently, I work as a freelance full-stack web developer, specializing in Node.js and React. Additionally, I am a graduate in mechatronics engineering and am pursuing a bachelor's degree in computer science and a post-graduate program in software engineering.
   </p>
   <ul>
-    <li>Bachelor in mechatronics enginnering at UNIT (2015 - 2020)</li>
-    <li>Exchange in mechatronics enginnering at Évora University (2017-2018)</li>
-    <li>Bachelor in Computer Science in UNESA (2023 - 2027)</li>
-    <li>Postgraduate in Software Enginnering <a href="https://faculdademetropolitana.edu.br/" target="_blank" rel="noopener noreferrer">FAMEESP</a> 🎓 💻 (2023 - 2024) </li> 
+    <li>Bachelor in mechatronics enginnering at UNIT (2015 - 2020) 🎓 🤖 👨‍🔧</li>
+    <li>Exchange in mechatronics enginnering at Évora University (2017-2018) 🎓 ✈️ 🇵🇹</li>
+    <li>Bachelor in Computer Science in UNESA (2023 - 2027) 🎓 💻 👨‍🔬 </li>
+    <li>Postgraduate in Software Enginnering at <a href="https://faculdademetropolitana.edu.br/" target="_blank" rel="noopener noreferrer">FAMEESP</a> (2023 - 2024) 🎓 💻 👨‍💻</li> 
   </ul>
   <p>
   In my personal life, I'm passionate about programming and the maker culture, often engaging in personal projects such as 3D printing. I also have a keen interest in physical fitness, with a focus on CrossFit and weightlifting, even though I'll humbly admit I'm not a pro in these areas. My diverse range of interests extends to reading; I enjoy literature from Dostoevsky to Patrick Rothfuss. Additionally, I have a deep love for music, encompassing various genres, including bands like Alice in Chains, Pantera, Municipal Waste, and many more.
