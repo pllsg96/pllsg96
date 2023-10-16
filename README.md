@@ -21,10 +21,10 @@
 </div>
   
 <div align="center">
-  <img height="100em" src="https://c.tenor.com/t25bzXBi65kAAAAC/workworkwork-typingcat.gif" alt="">
+  <img height="120em" src="https://c.tenor.com/t25bzXBi65kAAAAC/workworkwork-typingcat.gif" alt="">
   <a href="https://github.com/pllsg96">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pllsg96&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllsg96&layout=compact&langs_count=10&theme=vision-friendly-dark">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=pllsg96&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllsg96&layout=compact&langs_count=10&theme=vision-friendly-dark">
 </div>
 
   <div align="left">
