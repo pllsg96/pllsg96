@@ -1,7 +1,7 @@
 <div align="left">
 
   <!-- <li> 🌱 At moment i am learning Python! </li> -->
-<h2>   Olá, como vai? 👋🤙 </h2>
+<h2>   Hello, how are you?👋🤙 </h2>
 
 <img width=40% src="./imgs/gifs/cataboutme-txt.gif">
 <div align="justify">
@@ -21,11 +21,12 @@
 </div>
   
 <div align="center">
+  <img height="100em" src="https://c.tenor.com/t25bzXBi65kAAAAC/workworkwork-typingcat.gif" alt="">
   <a href="https://github.com/pllsg96">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pllsg96&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllsg96&layout=compact&langs_count=10&theme=vision-friendly-dark">
 </div>
-    <img height="100em" src="https://c.tenor.com/t25bzXBi65kAAAAC/workworkwork-typingcat.gif" alt="">
+
   <div align="left">
     <h2>Stacks</h2>
       <h3>Front-End</h3>
