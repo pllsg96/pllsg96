@@ -6,7 +6,7 @@
 <img width=40% src="./imgs/gifs/cataboutme-txt.gif">
 <div align="justify">
   <p>
-  My name is Pedro Luiz Gonçalves, and I am currently 27 years old. I currently reside in Maceió, Alagoas. My passion for technology has been with me since childhood. Presently, I work as a freelance full-stack web developer, specializing in Node.js and React. Additionally, I am a graduate in mechatronics engineering and am pursuing a bachelor's degree in computer science and a post-graduate program in software engineering.
+  My name is Pedro Luiz Gonçalves, and I am currently 28 years old. I currently reside in Maceió, Alagoas. My passion for technology has been with me since childhood. Presently, I work as a freelance full-stack web developer, specializing in Node.js and React. Additionally, I am a graduate in mechatronics engineering and am pursuing a bachelor's degree in computer science and a post-graduate program in software engineering.
   <span>At moment Working on Techands company!</span>
   </p>
   <ul>
