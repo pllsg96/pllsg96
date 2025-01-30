@@ -31,6 +31,15 @@
   </p>
 </div>
 </div>
+
+<div>
+  <h2>Stacks</h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    </a>
+  </p>
+</div>
   
 <div align="center">
   <img height="130em" src="https://c.tenor.com/t25bzXBi65kAAAAC/workworkwork-typingcat.gif" alt="">
@@ -45,12 +54,6 @@
   <a href = "mailto:pedroluizlsg@gmail.com" target="_blank"><img height="30px" target="_blank" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email-pedro-button"></a>
   <br/>
 </div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 
   <div align="left">
     <h2>Stacks</h2>
