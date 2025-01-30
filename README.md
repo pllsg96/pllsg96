@@ -33,10 +33,10 @@
 </div>
 
 <div>
-  <h2>Stacks</h2>
+  <h2>Stacks & Tools</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=aws,css,discord,docker,git,github,heroku,html,js,jest,linux,mongodb,mysql,nestjs,nodejs,npm,obsidian,postgres,prisma,py,react,redis,ts,vscode" />
     </a>
   </p>
 </div>
