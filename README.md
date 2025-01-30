@@ -59,7 +59,7 @@
         <img align="center" alt="Typescript-Icon" height="40px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
         <img align="center" alt="Nodejs-Icon" height="40px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <!--         <img align="center" alt="Nest-Icon" height="40px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg"> -->
-        [![My Skills](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
+<!--         [![My Skills](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev) -->
       <h3>Database</h3>
         <img align="center" alt="Mysql-Icon" height="40px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
         <img align="center" alt="Postgresql-Icon" height="40px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
