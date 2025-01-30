@@ -39,7 +39,6 @@
       <img src="https://skillicons.dev/icons?i=aws,css,discord,docker,git,github,heroku,html,js,jest,linux,mongodb,mysql,nestjs,nodejs,npm,obsidian,postgres,prisma,py,react,redis,ts,vscode" />
     </a>
   </p> -->
-  <h2>Stacks & Tools</h2>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=css,html,react,js,ts,nestjs,nodejs,py" />
