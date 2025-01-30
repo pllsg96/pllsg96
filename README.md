@@ -20,7 +20,13 @@
     <li>Postgraduate in Software Enginnering at <a href="https://faculdademetropolitana.edu.br/" target="_blank" rel="noopener noreferrer">FAMEESP</a> (2023 - 2024) 🎓 💻 👨‍💻</li> 
   </ul>
   <p>
-  In my personal life, I'm passionate about programming and the maker culture, often engaging in personal projects such as 3D printing. I also have a keen interest in physical fitness, with a focus on CrossFit and weightlifting, even though I'll humbly admit I'm not a pro in these areas. My diverse range of interests extends to reading; I enjoy literature from Dostoevsky to Patrick Rothfuss. Additionally, I have a deep love for music, encompassing various genres, including bands like Alice in Chains, Pantera, Municipal Waste, and many more.
+  In my personal life, I'm passionate about programming and the maker culture, often engaging in personal projects such as 3D printing. 
+  
+  I also have a keen interest in physical fitness, with a focus on CrossFit and weightlifting, even though I'll humbly admit I'm not a pro in these areas.
+  
+  My diverse range of interests extends to reading; I enjoy literature from Dostoevsky to Patrick Rothfuss. 
+  
+  Additionally, I have a deep love for music, encompassing various genres, including bands like Alice in Chains, Pantera, Municipal Waste, and many more.
   </p>
 </div>
 </div>
