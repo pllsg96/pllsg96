@@ -15,10 +15,10 @@
   <span>At moment Working on Techands company!</span>
   </p>
   <ul>
+    <li>Postgraduate in Software Enginnering at <a href="https://faculdademetropolitana.edu.br/" target="_blank" rel="noopener noreferrer">FAMEESP</a> (2023 - 2024) 🎓 💻 👨‍💻</li> 
     <li>Bachelor in mechatronics enginnering at <a href="https://www.unit.br" target="_blank" rel="noopener noreferrer">UNIT</a> (2015 - 2020) 🎓 🤖 👨‍🔧</li>
     <li>Exchange in mechatronics enginnering at <a href="https://www.uevora.pt" target="_blank" rel="noopener noreferrer">Évora University</a> (2017-2018) 🎓 ✈️ 🇵🇹</li>
 <!--     <li>Bachelor in Computer Science in <a href="https://estacio.br" target="_blank" rel="noopener noreferrer">UNESA</a> (2023 - 2027) 🎓 💻 👨‍🔬 </li> -->
-    <li>Postgraduate in Software Enginnering at <a href="https://faculdademetropolitana.edu.br/" target="_blank" rel="noopener noreferrer">FAMEESP</a> (2023 - 2024) 🎓 💻 👨‍💻</li> 
   </ul>
   <p>
   In my personal life, I'm passionate about programming and the maker culture, often engaging in personal projects such as 3D printing. 
