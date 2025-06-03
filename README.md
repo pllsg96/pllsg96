@@ -37,52 +37,53 @@
 ## Stacks & Tools
 
 ### Frontend & Backend
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="30" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="30" /></a>
-  <a href="https://reactjs.org" title="React"><img src="https://skillicons.dev/icons?i=react" width="30" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="30" /></a>
-  <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="30" /></a>
-  <a href="https://nestjs.com" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs" width="30" /></a>
-  <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="30" /></a>
-  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" width="30" /></a>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="45" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="45" /></a>
+  <a href="https://reactjs.org" title="React"><img src="https://skillicons.dev/icons?i=react" width="45" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" /></a>
+  <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="45" /></a>
+  <a href="https://nestjs.com" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs" width="45" /></a>
+  <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="45" /></a>
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" width="45" /></a>
 </p>
 
 *Frontend and backend development technologies.*
 
 ### Databases & Cache
-<p align="center">
-  <a href="https://www.mongodb.com" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="30" /></a>
-  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="30" /></a>
-  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="30" /></a>
-  <a href="https://redis.io" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="30" /></a>
+<p align="left">
+  <a href="https://www.mongodb.com" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="45" /></a>
+  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="45" /></a>
+  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="45" /></a>
+  <a href="https://redis.io" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="45" /></a>
 </p>
 
 *Database and caching systems.*
 
 ### Infrastructure & Tools
-<p align="center">
-  <a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="30" /></a>
-  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="30" /></a>
-  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="30" /></a>
-  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="30" /></a>
-  <a href="https://www.heroku.com" title="Heroku"><img src="https://skillicons.dev/icons?i=heroku" width="30" /></a>
+<p align="left">
+  <a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="45" /></a>
+  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="45" /></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="45" /></a>
+  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+  <a href="https://www.heroku.com" title="Heroku"><img src="https://skillicons.dev/icons?i=heroku" width="45" /></a>
 </p>
 
 *Infrastructure and deployment tools.*
 
 ### Other Tools
-<p align="center">
-  <a href="https://www.prisma.io" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" width="30" /></a>
-  <a href="https://www.npmjs.com" title="npm"><img src="https://skillicons.dev/icons?i=npm" width="30" /></a>
-  <a href="https://jestjs.io" title="Jest"><img src="https://skillicons.dev/icons?i=jest" width="30" /></a>
-  <a href="https://www.linux.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="30" /></a>
-  <a href="https://code.visualstudio.com" title="VSCode"><img src="https://skillicons.dev/icons?i=vscode" width="30" /></a>
-  <a href="https://discord.com" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="30" /></a>
-  <a href="https://obsidian.md" title="Obsidian"><img src="https://skillicons.dev/icons?i=obsidian" width="30" /></a>
+<p align="left">
+  <a href="https://www.prisma.io" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" width="45" /></a>
+  <a href="https://www.npmjs.com" title="npm"><img src="https://skillicons.dev/icons?i=npm" width="45" /></a>
+  <a href="https://jestjs.io" title="Jest"><img src="https://skillicons.dev/icons?i=jest" width="45" /></a>
+  <a href="https://www.linux.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="45" /></a>
+  <a href="https://code.visualstudio.com" title="VSCode"><img src="https://skillicons.dev/icons?i=vscode" width="45" /></a>
+  <a href="https://discord.com" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="45" /></a>
+  <a href="https://obsidian.md" title="Obsidian"><img src="https://skillicons.dev/icons?i=obsidian" width="45" /></a>
 </p>
 
 *ORM, package manager, testing, OS, IDE and communication.*
+
 
 <div align="center">
   <img height="130em" src="https://c.tenor.com/t25bzXBi65kAAAAC/workworkwork-typingcat.gif" alt="">
