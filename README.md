@@ -36,7 +36,8 @@
 
 ## Stacks & Tools
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+### Frontend & Backend
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="40" height="40" />
   </a>
@@ -63,7 +64,12 @@
   </a>
 </p>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
+*Tecnologias usadas para desenvolvimento da interface e lógica do servidor.*
+
+---
+
+### Bancos de Dados & Cache
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="40" height="40" />
   </a>
@@ -76,6 +82,14 @@
   <a href="https://redis.io" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" width="40" height="40" />
   </a>
+</p>
+
+*Bancos de dados relacionais e não relacionais, além de sistemas de cache.*
+
+---
+
+### Infraestrutura & DevOps
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="40" height="40" />
   </a>
@@ -93,7 +107,12 @@
   </a>
 </p>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
+*Ferramentas para infraestrutura, versionamento e deploy.*
+
+---
+
+### Ferramentas & Testes
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://www.prisma.io" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma" width="40" height="40" />
   </a>
@@ -105,7 +124,12 @@
   </a>
 </p>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
+*ORM, gerenciador de pacotes e framework de testes.*
+
+---
+
+### Sistemas Operacionais & IDEs
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://www.linux.org" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="40" height="40" />
   </a>
@@ -119,6 +143,9 @@
     <img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" title="Obsidian" width="40" height="40" />
   </a>
 </p>
+
+*Ambientes de desenvolvimento, comunicação e organização.*
+
 
 
   
