@@ -8,8 +8,10 @@
     <p>
   My name is Pedro Luiz Gonçalves, I am 28 years old, and I currently reside in Maceió, Alagoas. 
   From a young age, I have been deeply passionate about technology, a passion that has grown with me over the years.
+
+  I currently work as a Software Developer at <a href="https://www.edge.ufal.br" target="_blank" rel="noopener noreferrer">Centro de Inovação EDGE</a>
   
-  I currently work as a Software Developer at Techands, specializing in backend development with Node.js and Nest.js, and frontend development with React.js.
+  <!-- I currently work as a Software Developer at Techands, specializing in backend development with Node.js and Nest.js, and frontend development with React.js. -->
   
   I hold a degree in Mechatronics Engineering and a postgraduate degree in Software Engineering. More than just a profession, software development is something that truly fascinates me. I am passionate about continuous learning.
   <span>At moment Working on Techands company!</span>
